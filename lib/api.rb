@@ -1,0 +1,2 @@
+class DND::API
+end
