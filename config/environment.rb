@@ -1,9 +1,11 @@
-require "net/http"
-require "open-uri"
-require "json"
-require "pry"
+require 'net/http'
+require 'open-uri'
+require 'json'
+require 'pry'
+# require 'httpie'
+require 'awesome_print'
 
-require_relative "../lib/modules/dnd"
-require_relative "../lib/cli"
-require_relative "../lib/api"
-require_relative "../lib/monsters"
+require_relative '../lib/modules/dnd'
+require_relative '../lib/cli'
+require_relative '../lib/api'
+require_relative '../lib/monsters'
