@@ -1,3 +1,0 @@
-class DND::Monsters
-    
-end
